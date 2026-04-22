@@ -1,0 +1,36 @@
+# Vivado/Xilinx generated files
+*.jou
+*.log
+*.str
+*.pb
+*.wdf
+*.wpc
+*.cache
+*.tmp
+*.backup.*
+
+# Databases / checkpoints / reports
+*.dcp
+*.rpt
+*.rpx
+*.vdi
+*.vds
+*.wdb
+*.xml.old
+
+# Build and simulation outputs
+**/.Xil/
+**/xsim.dir/
+**/*.wdb
+**/*.xsim
+
+# Vivado project generated directories
+FEED_demo/FEED_demo.cache/
+FEED_demo/FEED_demo.hw/
+FEED_demo/FEED_demo.ip_user_files/
+FEED_demo/FEED_demo.runs/
+FEED_demo/FEED_demo.sim/
+
+# IDE/OS noise
+.DS_Store
+Thumbs.db
